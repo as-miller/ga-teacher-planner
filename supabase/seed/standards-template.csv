@@ -1,0 +1,2 @@
+id,grade,subject,course,unit,code,description,topics,source,source_url,version,effective_year,is_current
+example-7-math,7,Mathematics,Grade 7 Mathematics,Unit 1,EXAMPLE.1,"Replace this row with an official GaDOE standard","[\"Topic A\",\"Topic B\"]",Georgia Department of Education,https://inspire.gadoe.org/,ga-math-current,2026-27,true
